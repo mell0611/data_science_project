@@ -4,3 +4,5 @@ data2 lists off the total sales for each game, cataloging several hundred games.
 data3 contains information akin to that of data2, but it seems to be more comprehensive and recent.
 Project overview:
 In this project, we aim to find the correlation between a game's reception and its sales. Our hypothesis is that the better a game is reviewed, the more sales it would have.
+
+see http://www.vgchartz.com/game/83196/grand-theft-auto-v/ to compare numbers to determine the units.
