@@ -6,3 +6,6 @@ Project overview:
 In this project, we aim to find the correlation between a game's reception and its sales. Our hypothesis is that the better a game is reviewed, the more sales it would have.
 
 see http://www.vgchartz.com/game/83196/grand-theft-auto-v/ to compare numbers to determine the units.
+
+
+data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
