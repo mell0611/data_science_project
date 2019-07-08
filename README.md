@@ -9,3 +9,12 @@ see http://www.vgchartz.com/game/83196/grand-theft-auto-v/ to compare numbers to
 
 
 data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
+
+## Project description
+Include hypothesis here.
+
+## Data description
+
+## Technology
+
+## Conclusion
