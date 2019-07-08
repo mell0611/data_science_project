@@ -19,7 +19,7 @@ Include hypothesis here.
 Jupyter Notebook is a programming language that is selected in this project mainly for inherent "pandas" and "matplotlib" libraries, which are useful to combine, operate, and visualize data. 
 
 Documentations of the libraries can be found in:
-— [pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
-— [matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/usage.html)
+- [pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+- [matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/usage.html)
 
 ## Analysis / Conclusion
