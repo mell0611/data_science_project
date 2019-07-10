@@ -13,9 +13,9 @@ The aim of this project was to discover a correlation between a game's reception
 ## Data description
 Found in a well-known data community website "Kaggle," three data have been combined to produce the outcome of the project:
   
-- Data1 is the data that shows the ratings of the games that is shown by meta score and user score.
-- Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
-- Data3 is also the data that gives both ratings and sales. It's rating is shown by the user score.
+- [Data1](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000): Shows the ratings of the games that is shown by meta score and user score.
+- [Data2](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings): Contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
+- [Data3](https://www.kaggle.com/rgwegwegwe/vgsaledata): Gives both ratings and sales. It's rating is shown by the user score.
   
   Then, ALL THREE DATA are merged into one that contains key informations of total sales and and user score. It also has informtions of the console, release date and name to help people see what is actually going on. 
 
