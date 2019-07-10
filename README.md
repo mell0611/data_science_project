@@ -1,5 +1,5 @@
 ## Project description
-The aim of this project was to discover a correlation between a game's reception and its sale. Disregarding any external factors, we anticipated that a mutual relationship exists between such two aspects of a game, and a game with high sale is likely to be rated high.
+The aim of this project was to discover a correlation between a game's reception and its sale. We anticipated that a mutual relationship exists between such two aspects of a game, and a game with high sale is likely to be rated high.
 
 ## Data description
 Found in a well-known data community website "Kaggle," three data have been combined to produce the outcome of the project:
