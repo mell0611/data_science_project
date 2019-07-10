@@ -14,16 +14,16 @@ data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
   This project is a project that compares the Sales and the Ratings for different types of games. We thought that the more the Game was selled, the game has a higher ratings. 
 
 ## Data description
-  We found data from the Kaggle.
+Found in a well-known data community website "Kaggle," three data have been used to produce the outcome of the project:
   
-  Data1 is the data that shows the ratings of the games that is shown by meta score and user score.
-  Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
-  Data3 is also the data that gives both ratings and sales. It's rating is shown by the user score.
+- Data1 is the data that shows the ratings of the games that is shown by meta score and user score.
+- Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
+- Data3 is also the data that gives both ratings and sales. It's rating is shown by the user score.
   
   Then, ALL THREE DATAS are merged into one that contains key informations of total sales and and user score. It also has informtions of the console, release date and name to help people see what is actually going on. 
 
 ## Technology
-Jupyter Notebook is a programming language that is selected mainly for inherent "pandas" and "matplotlib" libraries, which are useful to combine, operate, and visualize data. 
+Python 3 is the programming language that is selected mainly for inherent "pandas" and "matplotlib" libraries, which are useful to combine, operate, and visualize data. All contents of the project have been recorded and updated via an online web application Jupyter Notebook.
 
 Documentations of the libraries can be found in:
 - [pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
