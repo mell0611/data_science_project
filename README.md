@@ -14,7 +14,7 @@ data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
   This project is a project that compares the Sales and the Ratings for different types of games. We thought that the more the Game was selled, the game has a higher ratings. 
 
 ## Data description
-Found in a well-known data community website "Kaggle," three data have been used to produce the outcome of the project:
+Found in a well-known data community website "Kaggle," three data have been combined to produce the outcome of the project:
   
 - Data1 is the data that shows the ratings of the games that is shown by meta score and user score.
 - Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
