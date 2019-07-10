@@ -20,7 +20,7 @@ Found in a well-known data community website "Kaggle," three data have been used
 - Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
 - Data3 is also the data that gives both ratings and sales. It's rating is shown by the user score.
   
-  Then, ALL THREE DATAS are merged into one that contains key informations of total sales and and user score. It also has informtions of the console, release date and name to help people see what is actually going on. 
+  Then, ALL THREE DATA are merged into one that contains key informations of total sales and and user score. It also has informtions of the console, release date and name to help people see what is actually going on. 
 
 ## Technology
 Python 3 is the programming language that is selected mainly for inherent "pandas" and "matplotlib" libraries, which are useful to combine, operate, and visualize data. All contents of the project have been recorded and updated via an online web application Jupyter Notebook.
