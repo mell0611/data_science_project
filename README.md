@@ -7,11 +7,8 @@ In this project, we aim to find the correlation between a game's reception and i
 
 see http://www.vgchartz.com/game/83196/grand-theft-auto-v/ to compare numbers to determine the units.
 
-
-data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
-
 ## Project description
-  This project is a project that compares the Sales and the Ratings for different types of games. We thought that the more the Game was selled, the game has a higher ratings. 
+The aim of this project was to discover a correlation between a game's reception and its sale. Disregarding any external factors, we anticipated that a mutual relationship exists between such two aspects of a game, and a game with high sale is likely to be rated high.
 
 ## Data description
 Found in a well-known data community website "Kaggle," three data have been combined to produce the outcome of the project:
