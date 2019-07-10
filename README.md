@@ -11,9 +11,16 @@ see http://www.vgchartz.com/game/83196/grand-theft-auto-v/ to compare numbers to
 data4 source: https://www.kaggle.com/sidtwr/videogames-sales-dataset
 
 ## Project description
-Include hypothesis here.
+  This project is a project that compares the Sales and the Ratings for different types of games. We thought that the more the Game was selled, the game has a higher ratings. 
 
 ## Data description
+  We found data from the Kaggle.
+  
+  Data1 is the data that shows the ratings of the games that is shown by meta score and user score.
+  Data2 is the data that contains both ratings and sales. It has global sales data and also shows rating by the critic score and the user score.
+  Data3 is also the data that gives both ratings and sales. It's rating is shown by the user score.
+  
+  Then, ALL THREE DATAS are merged into one that contains key informations of total sales and and user score. It also has informtions of the console, release date and name to help people see what is actually going on. 
 
 ## Technology
 Jupyter Notebook is a programming language that is selected mainly for inherent "pandas" and "matplotlib" libraries, which are useful to combine, operate, and visualize data. 
