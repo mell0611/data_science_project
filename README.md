@@ -32,12 +32,15 @@ The scatter plot above only employed data 2 which includes the number of users a
 
 ![line graph 1](https://github.com/shpark61/data_science_project/blob/master/graphs/line%20graph%201.png)
 
+The line graph above employed a merged dataset from data 1,2,and 3 which includes the average number of global sales, user and critic score for each year from 1985 to 2016. The annual global sale was lucidly influenced by the advent of new games including Doom, Starfox, Street Fighter II, and Virtua Fighter which resulted into a huge spike around 1982 and reached its peak during the release of the renowned game, Pokemon.
 
 ![scatter plot 4](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%204.png)
 
+The scatter plot above was created by a modified version of data 2 which contained only the sales of each regions (NA, EU, JP, Other), critic score, and user score. These scatter plots show a similarity with the other scatter plots mentioned above and do not show very close correlation between the scores and the actual regional sales. The highest correlation was found between NA sales and critic scores which perhaps hint toward more NA game players checking critic scores prior to purchasing games.
 
 ![scatter plot 1](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%201.png)
 
+The scatter plot above employed the merged dataset of data 1,2,and 3 which was divided into smaller divisions of consoles. The global sales compared with user and critic score divided into consoles did not show great correlation. Sony, among the other types of gaming consoles, showed the greatest correlation between the global sales and scores.
 
 ## Conclusion
 
