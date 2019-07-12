@@ -21,7 +21,7 @@ Documentations of the libraries can be found in:
 - [pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 - [matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/usage.html)
 
-## Analysis / Conclusion
+## Analysis
 ![scatter plot 2](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%202.png)
 
 Correlations of global sales by the user scores and critic scores are 0.09 and 0.24, respectively, which are not high enough to conclude that the sales are correlated to the scores. We thought some reviews could not be well-represented if there are too few reviews. This led us to filtering out to the average reviews where the number of reviews > 25.
@@ -39,9 +39,11 @@ The scatter plot above only employed data 2 which includes the number of users a
 ![scatter plot 1](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%201.png)
 
 
+## Conclusion
 
-The conclusion that we can earn from this research is that people do not consider the ratings of others as much when they purchase the video games. The hypothesis of higher sale and higher ratings seems like that it is not true, and we can't find such correlation between those two. 
+Through this project, we have discovered that consumers do not consider ratings of other users or critics when purchasing video games. Therefore, the hypothesis that a game with high sale is likely to be rated high is revealed to be false, as no clear correlation exist.
 
-## Further Research
+## Possible Extensions
 
+The extensions of this project could be to discover new factors—excluding ratings—that affect the sales of games. For instance, games with characters from movies or other media could attract the consumers better, earning more sales than the games which do not.
 
