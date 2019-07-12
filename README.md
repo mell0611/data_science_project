@@ -24,5 +24,10 @@ Documentations of the libraries can be found in:
 ## Analysis / Conclusion
 ![scatter plot 2](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%202.png)
 
+Correlations of global sales by the user scores and critic scores are 0.09 and 0.24, respectively, which are significantly low to conclude that the sales are dependent on the scores. However, the data do not consider the number of users and critics by whom the scores are given. 
+
+![scatter plot 3](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%203.png)
+
+The scatter plot above only employed data 2 which includes the number of users and critics, and dropped the data with number of users less than 25 and number of critics less than 20. Despite the removal, the graph shows similar trend to the data before confinement, presenting that the sales are influenced by the ratings given by both users and critics.
 
 The conclusion that we can earn from this research is that people do not consider the ratings of others as much when they purchase the video games. The hypothesis of higher sale and higher ratings seems like that it is not true, and we can't find such correlation between those two. 
