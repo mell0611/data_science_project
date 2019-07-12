@@ -33,6 +33,8 @@ The scatter plot above only employed data 2 which includes the number of users a
 ![line graph 1](https://github.com/shpark61/data_science_project/blob/master/graphs/line%20graph%201.png)
 
 
+![scatter plot 4](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%204.png)
+
 
 ![scatter plot 1](https://github.com/shpark61/data_science_project/blob/master/graphs/scatter%20plot%201.png)
 
