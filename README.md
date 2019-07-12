@@ -22,3 +22,7 @@ Documentations of the libraries can be found in:
 - [matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/tutorials/introductory/usage.html)
 
 ## Analysis / Conclusion
+
+
+
+The conclusion that we can earn from this research is that people do not consider the ratings of others as much when they purchase the video games. The hypothesis of higher sale and higher ratings seems like that it is not true, and we can't find such correlation between those two. 
