@@ -44,7 +44,7 @@ The scatter plot above employed the merged dataset of data 1,2,and 3 which was d
 
 ## Conclusion
 
-Through this project, we have discovered that consumers do not consider ratings of other users or critics when purchasing video games. Therefore, the hypothesis that a game with high sale is likely to be rated high is revealed to be false, as no clear correlation exist.
+Through this project, we have discovered that consumers do not consider ratings of other users or critics when purchasing video games. Therefore, the hypothesis that a game with high sale is likely to be rated high is revealed to be false, as no clear correlation exist. A possible reasoning behind this result is the fact that customers are likley to leave ratings and reviews usually when they are dissatisfied with the game. Customers with strong feelings of the success or failure of the game will be more likely to leave reviews than those who are lukewarm regarding the game they played. 
 
 ## Possible Extensions
 
